@@ -1,0 +1,1 @@
+{"name": "student-extracurricular-achievements","version": "1.0.0","private": true,"dependencies": {"react": ">=17.0.0","react-dom": ">=17.0.0","react-router-dom": ">=5.0.0","axios": ">=0.21.0","tailwindcss": ">=2.0.0"}}
